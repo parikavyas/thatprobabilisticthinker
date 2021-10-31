@@ -1,4 +1,4 @@
-![Awesome Portfolio Website](./readme_assets/banner_apw.png)
+![Parika's Portfolio Website](./readme_assets/pmbv_logo.png)
 
 <div align="center">
 
